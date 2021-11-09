@@ -1,0 +1,45 @@
+body {
+    font-family: arial;
+    background-color: rgb(185,179,175);
+text-align: to left ;
+}
+h1 {
+    color: rgb(255,255,255);}
+
+.About {
+	text-align: center;
+list-style-type: none;
+
+
+}
+
+.contact 
+{
+	text-align: center;list-style-type: none;
+}
+
+p {text-align: center;list-style-type: none;
+
+}
+
+.interests
+{
+	text-align: center;
+}
+
+.Photos {
+	text-align: center;
+}
+
+.image {
+	text-align: center;
+}
+
+/* How to make information in bullets/* 
+/* how to center Nav/*
+
+
+
+
+
+
